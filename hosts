@@ -1,0 +1,42 @@
+# Title: Aom/hosts with the porn, gambling
+#
+#
+# Date: 22 February 2022
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
+# Project home page: https://github.com/AomsinTH/DNSBL-TH-BLOCK
+#
+# ===============================================================
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+0.0.0.0 porn-th.com
+0.0.0.0 xn--12cl4bav1iqa4a0lc9ed.com
+0.0.0.0 xn--82c0bxcybxc2b.com
+0.0.0.0 xn--72c9abh1f8ad1lzc.com
+0.0.0.0 xn--72c0aarl7gxb5hqa7c4a.com
+0.0.0.0 xn--12c3bn1nma.com
+0.0.0.0 xn--l3cg7a8a0cwa3f.com
+0.0.0.0 xn--12cln7c7aya4cs8a9b5gtd3c.com
+0.0.0.0 javhubpremium.com
+0.0.0.0 porn5xxx.com
+0.0.0.0 xn--42c6baga2dd6da0eti2a8e8a.com
+0.0.0.0 xn--72ca2bsl7gxbd4m7c.com
+0.0.0.0 xn--72czpj1fd3b9a3a8g3d.com
+0.0.0.0 xn--72czpbj7gtbe3e0e3d.com
+0.0.0.0 xn--42c6au3bb9azd9a.com
+0.0.0.0 x888av.com
+0.0.0.0 doohee24.net
