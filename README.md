@@ -1,4 +1,3 @@
 # TH_BLOCKWEB
-DNSBL ON THAILAND BLOCK WEB
-by Aom
+DNSBL ON THAILAND BLOCK WEB , PORN
 contact keattisuk@dusitnon.ac.th
